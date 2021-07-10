@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888114003327",
+    "project_id": "hacktoon",
+    "storage_bucket": "hacktoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888114003327:android:fc08c01533a4133653ae4a",
+        "android_client_info": {
+          "package_name": "com.example.hacktoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888114003327-0t7u0h6pn70uoa5qegllgncvh1jaj9j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6nwpBLnvQ5mGYe3odel1AWAPlXrB3eAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888114003327-0t7u0h6pn70uoa5qegllgncvh1jaj9j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
