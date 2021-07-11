@@ -7,7 +7,7 @@ class AnimeCharacter {
       return 417;
     } else if (characterName == "Levi") {
       return 45627;
-    } else if (characterName == "Lawliet") {
+    } else if (characterName == "Lawliet, L") {
       return 71;
     } else if (characterName == "Monkey D., Luffy") {
       return 40;
@@ -15,9 +15,9 @@ class AnimeCharacter {
       return 672;
     } else if (characterName == "Okabe, Rintarou") {
       return 35252;
-    } else if (characterName == "Roronoa, Zoro") {
+    } else if (characterName == "Zoro \"Pirate Hunter, Marimo\" Roronoa") {
       return 62;
-    } else if (characterName == "Elric, Edward") {
+    } else if (characterName == "Edward Elric") {
       return 11;
     } else if (characterName == "Zoldyck, Killua") {
       return 27;
@@ -59,6 +59,8 @@ class AnimeCharacter {
       return 12064;
     } else if (characterName == "Sakurajima, Mai") {
       return 118739;
+    } else if (characterName == "Yagami, Light") {
+      return 80;
     }
     return 40881;
   }
